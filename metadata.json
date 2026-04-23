@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Catat Piutang 2",
+  "description": "Aplikasi pencatatan keuangan Finance ISOmedik dengan gaya skeuomorphic yang terhubung langsung ke Google Sheets. Memungkinkan pengelolaan piutang, pelunasan, dan status pembayaran dengan tampilan yang taktil dan informatif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
